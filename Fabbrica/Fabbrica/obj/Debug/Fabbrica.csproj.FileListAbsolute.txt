@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Fabbrica\Fabbrica\obj\Debug\Fabbrica.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\Fabbrica\Fabbrica\obj\Debug\Fabbrica.FabbricaForm1.resources
+C:\Users\Administrator\source\repos\Fabbrica\Fabbrica\obj\Debug\Fabbrica.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Fabbrica\Fabbrica\obj\Debug\Fabbrica.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Fabbrica\Fabbrica\obj\Debug\Fabbrica.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Fabbrica\Fabbrica\bin\Debug\Fabbrica.exe.config
+C:\Users\Administrator\source\repos\Fabbrica\Fabbrica\bin\Debug\Fabbrica.exe
+C:\Users\Administrator\source\repos\Fabbrica\Fabbrica\bin\Debug\Fabbrica.pdb
+C:\Users\Administrator\source\repos\Fabbrica\Fabbrica\obj\Debug\Fabbrica.exe
+C:\Users\Administrator\source\repos\Fabbrica\Fabbrica\obj\Debug\Fabbrica.pdb
