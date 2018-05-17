@@ -107,6 +107,7 @@
             this.Panel.Name = "Panel";
             this.Panel.Size = new System.Drawing.Size(660, 197);
             this.Panel.TabIndex = 0;
+            this.Panel.Paint += new System.Windows.Forms.PaintEventHandler(this.Panel_Paint);
             // 
             // TbSensAsc
             // 
