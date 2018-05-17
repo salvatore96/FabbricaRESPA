@@ -76,6 +76,7 @@ namespace Fabbrica
             delta3 = TimerUscita.Interval;
             durata3 = 1000;
             //ciao ciao
+            //Simone puzza
         }
 
         private void ButtStart_Click(object sender, EventArgs e)
